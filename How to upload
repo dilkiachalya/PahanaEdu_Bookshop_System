@@ -1,0 +1,4 @@
+cd ~/Desktop/PahanaEdu_Bookshop_System
+git add .
+git commit -m "Added Customer.java for customer registration"
+git push
